@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rrUNst6hKAHpt5JJH6ytIxjKDexeEAcdpXRXnBikJu10yPeQB9uhb6sjz6hacnA0d0hsr3xnlcta0glArSBBcA==",
+  "dgSpecHash": "S4DGHDWKL6/HeiE27YgJijReWxCYxs2ixy3kb4VAZXVzZofrbAfMKEwbywZKxBRwOEzYjyKUuPhwR1hWO+1b/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amitr\\Desktop\\companyStructure\\WebAPI\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\amitr\\Desktop\\companyStructure\\companyStructure\\WebAPI\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amitr\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.9\\microsoft.aspnetcore.jsonpatch.3.1.9.nupkg.sha512",
     "C:\\Users\\amitr\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.9\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.9.nupkg.sha512",

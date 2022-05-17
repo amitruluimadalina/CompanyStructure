@@ -852,11 +852,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amitr\\Desktop\\companyStructure\\WebAPI\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\amitr\\Desktop\\companyStructure\\companyStructure\\WebAPI\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\amitr\\Desktop\\companyStructure\\WebAPI\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\amitr\\Desktop\\companyStructure\\companyStructure\\WebAPI\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\amitr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amitr\\Desktop\\companyStructure\\WebAPI\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\amitr\\Desktop\\companyStructure\\companyStructure\\WebAPI\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\amitr\\AppData\\Roaming\\NuGet\\NuGet.Config",
